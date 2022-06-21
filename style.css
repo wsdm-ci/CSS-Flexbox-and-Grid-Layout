@@ -33,10 +33,15 @@ img {
     font-family: Courier, monospace;
     text-align: center;
     font-weight: 700;
-  }
-  .grid a {
     text-decoration: none;
     color: #000;
+    padding: 2px;
+  }
+  a:hover {
+    border: 0.5px solid black;
+    border-radius: 15px;
+    /* padding: 3px; */
+    /* text-decoration: underline; */
   }
   main {
     width: 45%;
@@ -127,10 +132,15 @@ img {
     font-family: Courier, monospace;
     text-align: center;
     font-weight: 700;
-  }
-  .grid a {
     text-decoration: none;
     color: #000;
+    padding: 2px;
+  }
+  a:hover {
+    border: 0.5px solid black;
+    border-radius: 15px;
+    /* padding: 3px; */
+    /* text-decoration: underline; */
   }
   main {
     width: 45%;
@@ -222,10 +232,15 @@ img {
     font-family: Courier, monospace;
     text-align: left;
     font-weight: 700;
-  }
-  .grid a {
     text-decoration: none;
     color: #000;
+    padding: 2px;
+  }
+   a:hover {
+    border: 0.5px solid black;
+    /* padding: 3px; */
+    border-radius: 15px;
+    /* text-decoration: underline; */
   }
   main {
     width: 90%;
